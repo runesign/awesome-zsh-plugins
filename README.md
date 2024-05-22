@@ -243,7 +243,7 @@ A ZSH micro plugin manager.
 
 ### [zap](https://github.com/zap-zsh/zap)
 
-**zap** is a minimal ZSH plugin manager.
+**:zap:zap** is a minimal ZSH plugin manager.
 
 ### [zapack](https://github.com/aiya000/zsh-zapack)
 
